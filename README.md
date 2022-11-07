@@ -1,3 +1,13 @@
+Boş Zamanımda Yaptığım v13 İnvite Botu Sizlerle.
+
+```
+Config'i doldur
+npm install yap modülleri kur
+!Start'a Bas Botu Çalıştır
+```
+`Stat Sistemli`
+`2 Dil Ayarlanabilir`
+`Token SunucuİD Logid Gir Çalıştır`
 ```json
-> Boş v12 altyapıya göre uyarlanmış chat guard modülü.
+> Herhangi Bir Sorunda ravgar#3210
 ```
