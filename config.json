@@ -1,0 +1,20 @@
+
+{
+    "prefix": "PREFİX GİR",
+    "lang": "tr",
+    "serverID": "SUNUCU İD GİT",
+
+    "welcome": {
+        "channelId": "İNVİTE KANAL İD GİR",
+
+        "message": {
+            "success": "{user} Sunucuya Giriş Yaptı **{inviterName}** Tarafından Davet Edildi Davet Sayısı **{inviteCount}** Olarak Güncellendi",
+            "unknow": "{user}'ın Sunucuya Nasıl Katıldığını Bulamadım",
+            "vanity": "{user} Sunucuya Özel URL İle Katıldı",
+            "self-invite": "{user} Kendi Davetini Kullanarak Katıldı"
+        },
+    
+        "isEmbed": true,
+        "color": "#27ae60"
+    }
+}
