@@ -1,2 +1,1 @@
-# v13-Invite-Bot
-İngilizce/Türkçe Tek Configde Dil Ayarlanabilen Gelişmiş İnvite Botu.
+```> Boş v12 altyapıya göre uyarlanmış chat guard modülü.```
