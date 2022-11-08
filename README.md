@@ -17,3 +17,4 @@ Start'a Bas Botu Çalıştır
 ```json
 > Herhangi Bir Sorunda ravgar#3210
 ```
+**FULL MONGO DB ÇEVRİLMİŞ HALİNİ ATARIM Bİ ARA**
