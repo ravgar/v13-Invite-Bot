@@ -1,4 +1,4 @@
-Boş Zamanımda Yaptığım v13 İnvite Botu Sizlerle.
+sckratt'le Boş Zamanımda Yaptığım v13 İnvite Botu Sizlerle.
 Discordu Siklemiyorum 2 3 Adama İnat Altapıların Tamamını Yavaştan Atıyorum Kimin Ne Söylediği Umrumda Değil Adıma Dönen Hiçbirşeyle Alakam Yoktur.
 Ara Sıra Giriyorum Ücretli Bot İşlemleri İçin ;
 ```json
