@@ -1,5 +1,5 @@
 daweedkob ve sckratt'le v13 Çıktığında İlk Yaptığımız v13 İnvite Botu Sizlerle.
-Discordu Siklemiyorum 2 3 Adama İnat Altapıların Tamamını Yavaştan Atıyorum Kimin Ne Söylediği Umrumda Değil Adıma Dönen Hiçbirşeyle Alakam Yoktur.
+Adıma Dönen Hiçbirşeyle Alakam Yoktur.
 Ara Sıra Giriyorum Ücretli Bot İşlemleri İçin ;
 ```json
 Wex#1000
